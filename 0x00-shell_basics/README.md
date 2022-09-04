@@ -1,1 +1,1 @@
-big boy
+listing pwd using script
